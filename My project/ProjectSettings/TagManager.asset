@@ -3,12 +3,19 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Cesta
+  - Plataforma
+  - Auto
+  - Jugador
+  - SlimeSoldado
+  - Slime
+  - SlimePrincipe
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Ground
   - Water
   - UI
   - 
